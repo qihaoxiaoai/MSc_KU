@@ -1,0 +1,7 @@
+Notice for this part!!!
+1. To calculate the force in neb, have to use n_pes=100!
+2. To build up the connnection matrix, use fine structure n_min<n_pes! (in the file 'fine_min.dat')
+
+Output of this part:
+1. conMatrix.dat for the connection relation and coordinates
+2. barMatrix.dat for the barrier relation and energetics
